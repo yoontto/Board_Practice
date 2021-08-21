@@ -23,7 +23,7 @@
   <servlet>
   	<display-name>BoardFrontController</display-name>
   	<servlet-name>BoardFrontController</servlet-name>
-  	<servlet-class>com.Board.action.BoardFrontController</servlet-class>
+  	<servlet-class>com.board.action.BoardFrontController</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>BoardFrontController</servlet-name>
